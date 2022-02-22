@@ -7,4 +7,6 @@ service times within the uncertainty set.
 
 ## Instances
 - [Instances](./Instances) includes all instances used in our paper. One can see the geographic distribution of customers, the number of custoemrs and the time horizon from the filename of each instance, for example, "C25_1" means that there are 25 customers that located in clusters, and the time horizon for each vehicle is the first quartile of all customers's deadline.
-
+- 
+## Results
+- [Results](./Results) includes all results from three solution methods, i.e., CPLEX for solving the model directly, a branch-and-price (B&P) exact method and a tabu search (TS) heuristic method. All the three methods are set a computing time limit as one hour.
