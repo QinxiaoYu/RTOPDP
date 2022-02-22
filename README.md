@@ -9,7 +9,7 @@ service times within the uncertainty set.
 - [Instances](./Instances) includes all instances used in our paper. One can see the geographic distribution of customers, the number of custoemrs and the time horizon from the filename of each instance, for example, "C25_1" means that there are 25 customers that located in clusters, and the time horizon for each vehicle is the first quartile of all customers's deadline.
 
 - Instance file format:
-  - All the networks are modified based on the Solomon benchmark. 
+  - All the networks are modified based on the [Solomon benchmark for the VRPTW](http://web.cba.neu.edu/~msolomon/problems.htm). 
   - C, R and RC refer to the cluster-located network, random-located network and a mixture of cluster-random located network.
   - The first node is considered as the starting depot as well as the ending depot.
   - 'DELAYRATIO' is rate that 'PROFIT' decreases linearly with the arrival time.
