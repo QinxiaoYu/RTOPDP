@@ -27,4 +27,6 @@ service times within the uncertainty set.
 - [Results](./Results) includes all results from three solution methods, i.e., CPLEX for solving the model directly, a branch-and-price (B&P) exact method and a tabu search (TS) heuristic method. All the three methods are set a computing time limit as one hour.
 
 ## Contact Info
-Feel free to contact us for more information about our paper via email: Qinxiao Yu (yuqinxiao@tju.edu.cn), Chun Cheng (chun.cheng@polymtl.ca).
+Feel free to contact us for more information about our paper via email: 
+ - Qinxiao Yu (yuqinxiao@tju.edu.cn), 
+ - Chun Cheng (chun.cheng@polymtl.ca).
